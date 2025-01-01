@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> Chonnam Nation University.
+subtitle: <a href='#'></a> Chonnam National University.
 
 profile:
   align: right
