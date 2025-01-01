@@ -6,7 +6,7 @@ subtitle: <a href='#'></a> Chonnam National University.
 
 profile:
   align: right
-  image: myself.jpg
+  image: myself-gray.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>818 Room Building 6</p>
