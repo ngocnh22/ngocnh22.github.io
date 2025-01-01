@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>818 Room Buidlig 6</p>
+    <p>818 Room Building 6</p>
     <p>Chonnam National University</p>
     <p>77 Yongbongro, Bukgu Gwangju 61186</p>
 
