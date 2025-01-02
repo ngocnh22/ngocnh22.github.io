@@ -68,8 +68,13 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
 orcid_id: 0000-0003-1888-0117 # your ORCID ID
 scholar_userid: s6KtmXMAAAAJ #kl6Sz_wAAAAJ  # your Google Scholar ID
+research_gate_profile: Trong_Nghia_Nguyen # your profile on ResearchGate
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -80,7 +85,7 @@ scholar_userid: s6KtmXMAAAAJ #kl6Sz_wAAAAJ  # your Google Scholar ID
 google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
-openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+#openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
