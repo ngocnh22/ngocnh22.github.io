@@ -68,6 +68,9 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
+
+scholar_userid: s6KtmXMAAAAJ #kl6Sz_wAAAAJ  # your Google Scholar ID
+
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
