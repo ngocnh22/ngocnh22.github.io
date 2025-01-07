@@ -1,15 +1,8 @@
 github_users:
   - ngocnh22
-  - torvalds
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ngocnh22/Pig-estimate-weight-based-on-images---AI-Project
+
