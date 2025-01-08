@@ -15,94 +15,56 @@
       institution: University of Science, Vietnam National University, Ho Chi Minh City, Vietnam
       year: 2014 - 2019
       description:
-        - Degree classification: Good
+        - Degree classification: Good.
         - Department: Algebra and Number Theory.
         
-  contents:
+
     - title: ME
       institution: Chonnam National University, Kwangju, South Korea
       year: 2021 - 2023
       description:
-        - GPA: 4.19/4.5.
+        - GPA 4.19/4.5.
         - Department: AI of Convergence.
-        - Thesis: Artificial Intelligence of Things in Indoor Aquaculture: Development Light-Emitting Grid Panel for the Measurement of Fish Size from the Images.
+        - Thesis: "Artificial Intelligence of Things in Indoor Aquaculture: Development Light-Emitting Grid Panel for the Measurement of Fish Size from the Images".
 
-  contents:
-    - title: Ph. D.
+    - title: Ph.D.
       institution: Chonnam National University, Kwangju, South Korea
-      year: 2023 - present
+      year: 2021 - present
       description:
         - Research student in Human-Media Laboratory.
-        - Topics research: AI aplications in aquaculture, developing smart farm.
+        - Topics research: AI aplications in aquaculture, developing smart farm, Animation Annotation.
 
-         
-          
-    
+
 
 - title: Experience
   type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+  contents: 
+    - title: Teaching Assistant (4 months)
+      company: Tan Tao University - TTU, Long An Provice, Vietnam
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Support the Professor to maintain and conduct the steps in class.
+        - Motivate students to join the class frequently, keep in touch with them and help them whenever they have troubles.
+        - Prepare homework and fix students’ code.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI Application 
+      items: 
+        - Good analysis of fish growth.
+        - Automatic feeder based on hunger state.
+    - title: Problems in Aquaculture
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Smart feeding machine.
+        - Overlap objects.
+        - Growth, and body weight estimation.
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    
+    - <u>Sport:</u> Swimming, calisthenics.
+    - <u>Traveling:</u> Trekking, Adventure travel.
+    - <u>Bartender:</u> Coffee.
