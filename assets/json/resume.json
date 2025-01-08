@@ -1,20 +1,28 @@
 {
-  "General Information": {
+  "basics": {
     "name": "HUYNH NGUYEN NGOC",
-    "label": "Ph.D. Student",
+    "label": "Ph. D. Student",
     "image": "",
-    "email": "ngocnh0202@gmail.com",
+    "email": "ngocnh2226@jnu.ac.kr",
     "phone": "(+82) 1059482611",
     "url": "https://ngocnh22.github.io",
-    "summary": "Keep your chin up",
-     "location": {
-      "address": "818 Room Building 6 Chonnam National Universtiy",
+    "summary": "Keep Your Chin Up",
+    "location": {
+      "address": "818 Room Building 6 Chonnam National University",
       "postalCode": "61186",
       "city": "Kwangju",
       "countryCode": "South Korea",
-      "region": "77 Yongbongro, Bukgu"
+      "region": "Yongbongro, Bukgu"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Huynh Nguyen Ngoc",
+        "url": "www.linkedin.com/in/ngocngochuynh"
+      }
+    ]
   },
-  "Education": [
+  "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -128,12 +136,12 @@
   ],
   "skills": [
     {
-      "name": "Mathematics and AI aplications",
+      "name": "Mathematics and AI Aplications",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Aquaculture farm quality management through deep learning application",
-        "Mathematics in Deep Learning Architecture",
+        "Quantum Mechanics",
+        "Quantum Computing",
         "Quantum Information",
         "Quantum Cryptography",
         "Quantum Communication",
@@ -155,11 +163,11 @@
   ],
   "interests": [
     {
-      "name": "C",
+      "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "",
-        "",
+        "Aquaculture farm quality management through deep learning application",
+        "Mathematics in Deep Learning Architecture",
         "Quantum Information",
         "Quantum Cryptography",
         "Quantum Communication",
@@ -190,3 +198,4 @@
     }
   ]
 }
+  
