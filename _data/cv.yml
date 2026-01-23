@@ -68,6 +68,8 @@
       description:
         - Published in MDPI Sensors, Volume 24, 852.
         # - "[DOI: 10.3390/s24030852](https://doi.org/10.3390/s24030852)"
+          - 'DOI: <a href="https://doi.org/10.3390/s24030852" target="_blank" rel="noopener noreferrer">10.3390/s24030852</a>'
+
     - title: Scoring of Human Body-Balance Ability on Wobble Board Based on the Geometric Solution
       institution: Applied Sciences
       year: 2024
