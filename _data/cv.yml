@@ -10,12 +10,12 @@
     - name: Email
       value: ngocnh2226@jnu.ac.kr
     - name: Current Affiliation
-      value: Chonnam National University, South of Korea
+      value: Chonnam National University, South Korea
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D Candidate in Artificial Intelligence Convergence
+    - title: Ph.D. Candidate in Artificial Intelligence Convergence
       institution: Chonnam National University, Gwangju, South Korea
       year: 2023 - Present
       description:
@@ -26,30 +26,30 @@
       institution: Chonnam National University, Gwangju, South Korea
       year: 2023
       description:
-        - Specialized in computer vision and image processing
-        - Research in multi-shot person re-identification
+        - Specialized in computer vision and image processing.
+        - Research in multi-shot person re-identification.
         - Thesis: "Artificial Intelligence of Things in Indoor Aquaculture: Development of a Light-Emitting Grid Panel for the Measurement of Fish Size from Images"
     - title: B.S. in Mathematics
       institution: University of Science - VNUHCM, Vietnam
       year: 2019
       description:
-        -  Faculty of Mathematics and Computer Science
+        - Faculty of Mathematics and Computer Science.
 
 - title: Research Interests
   type: nested_list
   contents:
     - title: Artificial Intelligence and Machine Learning
       items:
-        - Deep learning algorithms for aquaculture applications
-        - Video understand, Adverse weather condition, Camouflage detection
+        - Deep learning algorithms for aquaculture applications.
+        - Video understanding, adverse weather conditions, camouflaged object detection.
     - title: Aquaculture AI Applications
       items:
-        - Fish intelligent feeding system 
-        - Automatic measurement of the body length, size of fish
+        - Intelligent feeding systems for fish.
+        - Automatic measurement of fish body length and size.
     - title: Natural Language Processing
       items:
-        - Large language models (LLM)
-        - Text analysis and processing
+        - Large language models (LLMs).
+        - Text analysis and processing.
 
 - title: Selected Publications
   type: time_table
@@ -58,39 +58,37 @@
       institution: Scientific Reports
       year: 2025
       description:
-        - Published in Scientific Reports, Volume 15, 41214
-        - DOI: s41598-025-25090-5
+        - Published in Scientific Reports, Volume 15, 41214.
+        - DOI: s41598-025-25090-5.
     - title: Effect of Light-Emitting Grid Panel on Indoor Aquaculture for Measuring Fish Growth
-      institution: Sensor
+      institution: Sensors
       year: 2024
       description:
-        - Published in MDPI, Volume 24, 852
-        - DOI: s24030852
+        - Published in MDPI Sensors, Volume 24, 852.
+        - DOI: s24030852.
     - title: Scoring of Human Body-Balance Ability on Wobble Board Based on the Geometric Solution
       institution: Applied Sciences
       year: 2024
       description:
-        - Published in MDPI, Volume 12, 5967
-        - DOI: 10.1109/MIS.2024.3408290
+        - Published in MDPI Applied Sciences, Volume 12, 5967.
+        - DOI: 10.1109/MIS.2024.3408290.
 
 - title: Conference Presentations
   type: time_table
   contents:
     - title: Preliminary Study on Fish Tracking in Indoor Aquaculture through Deep Learning
-      institution: Conference: The 29th International Workshop on Frontiers of Computer Vision
+      institution: "Conference: The 29th International Workshop on Frontiers of Computer Vision (FCV)"
       year: 2023
       description:
-        - "Accepted for presentation at FCV 2023"
+        - "Accepted for presentation at FCV 2023."
         - "Website: https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496"
 
 - title: Technical Skills
   type: list
   contents:
-    - <u>Programming Languages:</u> Python, R, MATLAB, Java, C++
-    - <u>Machine Learning Frameworks:</u> TensorFlow, PyTorch, Scikit-learn, Keras
-    - <u>Data Analysis:</u> Pandas, NumPy, Matplotlib, Seaborn
-    - <u>Deep Learning:</u> CNN, RNN, LSTM, Transformer, Siamese Networks
-    - <u>Smart Farm:</u> Fish length, weight estimate in door, Feeding time and prediction hungry state
-    - <u>Tools:</u> Git, Docker, Jupyter Notebook, LaTeX
-
-
+    - "<u>Programming Languages:</u> Python, R, MATLAB, Java, C++"
+    - "<u>Machine Learning Frameworks:</u> TensorFlow, PyTorch, Scikit-learn, Keras"
+    - "<u>Data Analysis:</u> Pandas, NumPy, Matplotlib, Seaborn"
+    - "<u>Deep Learning:</u> CNN, RNN, LSTM, Transformer, Siamese Networks"
+    - "<u>Smart Farm:</u> Fish length and weight estimation in indoor aquaculture, feeding time and hunger-state prediction"
+    - "<u>Tools:</u> Git, Docker, Jupyter Notebook, LaTeX"
