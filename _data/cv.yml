@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Huynh
+      value: Nguyen-Ngoc Huynh
     - name: Date of Birth
-      value: 14th March 1879
+      value: 02 Feb 1996
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
+    - name: Email
+      value: ngocnh2226@jnu.ac.kr
+    - name: Current Affiliation
+      value: Chonnam National University, South of Korea
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Chonnam Nation University, South of Korea
+    - title: Ph.D Candidate in Artificial Intelligence Convergence
+      institution: Chonnam National University, Gwangju, South Korea
+      year: 2023 - Present
+      description:
+        - Research focused on low-light, underwater, and camouflaged object detection and segmentation.
+        - Developed advanced deep learning architectures integrating attention mechanisms, Retinex-based enhancement, and BCP loss for robust detection in challenging visual environments.
+        - GPA: 4.32
+    - title: M.S. in Science
+      institution: Chonnam National University, Gwangju, South Korea
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Specialized in computer vision and image processing
+        - Research in multi-shot person re-identification
+        - Thesis: "Artificial Intelligence of Things in Indoor Aquaculture\: Development of a Light-Emitting Grid Panel for the Measurement of Fish Size from Images"
+    - title: B.S. in Mathematics
+      institution: University of Science - VNUHCM, Vietnam
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        -  Faculty of Mathematics and Computer Science
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Deep learning algorithms for aquaculture applications
+        - Video understand, Adverse weather condition, Camouflage detection
+    - title: Aquaculture AI Applications
       items:
-        - Description 1.
-        - Description 2.
+        - Fish intelligent feeding system 
+        - Automatic measurement of the body length, size of fish
+    - title: Natural Language Processing
+      items:
+        - Large language models (LLM)
+        - Text analysis and processing
 
-- title: Other Interests
+- title: Selected Publications
+  type: time_table
+  contents:
+    - title: Cyber physical solutions for aquatic monitoring using YOLO with BCP loss for intelligent underwater camouflaged object detection
+      institution: Scientific Reports
+      year: 2025
+      description:
+        - Published in Scientific Reports, Volume 15, 41214
+        - DOI: s41598-025-25090-5
+    - title: Effect of Light-Emitting Grid Panel on Indoor Aquaculture for Measuring Fish Growth
+      institution: Sensor
+      year: 2024
+      description:
+        - Published in MDPI, Volume 24, 852
+        - DOI: s24030852
+    - title: Scoring of Human Body-Balance Ability on Wobble Board Based on the Geometric Solution
+      institution: Applied Sciences
+      year: 2024
+      description:
+        - Published in MDPI, Volume 12, 5967
+        - DOI: 10.1109/MIS.2024.3408290
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: "Preliminary Study on Fish Tracking in Indoor Aquaculture through Deep Learning"
+      institution: "Conference: The 29th International Workshop on Frontiers of Computer Vision"
+      year: 2023
+      description:
+        - "Accepted for presentation at FCV 2023"
+        - "Website: https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496"
+
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming Languages:</u> Python, R, MATLAB, Java, C++
+    - <u>Machine Learning Frameworks:</u> TensorFlow, PyTorch, Scikit-learn, Keras
+    - <u>Data Analysis:</u> Pandas, NumPy, Matplotlib, Seaborn
+    - <u>Deep Learning:</u> CNN, RNN, LSTM, Transformer, Siamese Networks
+    - <u>Smart Farm:</u> Fish length, weight estimate in door, Feeding time and prediction hungry state
+    - <u>Tools:</u> Git, Docker, Jupyter Notebook, LaTeX
+
+
