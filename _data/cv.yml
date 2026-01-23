@@ -28,7 +28,9 @@
       description:
         - Specialized in computer vision and image processing.
         - Research in measurement of fish size, length, and fish tracking.
-        - "Thesis: Artificial Intelligence of Things in Indoor Aquaculture: Development of a Light-Emitting Grid Panel for the Measurement of Fish Size from Images"
+        - 'Thesis: <strong>Artificial Intelligence of Things in Indoor Aquaculture: Development of a Light-Emitting Grid Panel for the Measurement of Fish Size from Images</strong>'
+
+        # - "Thesis: Artificial Intelligence of Things in Indoor Aquaculture: Development of a Light-Emitting Grid Panel for the Measurement of Fish Size from Images"
     - title: B.S. in Mathematics
       institution: University of Science - VNUHCM, Vietnam
       year: 2019
