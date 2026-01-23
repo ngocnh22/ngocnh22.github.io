@@ -76,8 +76,8 @@
 - title: Conference Presentations
   type: time_table
   contents:
-    - title: "Preliminary Study on Fish Tracking in Indoor Aquaculture through Deep Learning"
-      institution: "Conference: The 29th International Workshop on Frontiers of Computer Vision"
+    - title: Preliminary Study on Fish Tracking in Indoor Aquaculture through Deep Learning
+      institution: Conference: The 29th International Workshop on Frontiers of Computer Vision
       year: 2023
       description:
         - "Accepted for presentation at FCV 2023"
