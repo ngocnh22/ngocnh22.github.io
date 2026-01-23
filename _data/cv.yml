@@ -67,13 +67,13 @@
       year: 2024
       description:
         - Published in MDPI Sensors, Volume 24, 852.
-        - "[DOI: 10.3390/s24030852](https://doi.org/10.3390/s24030852)"
+        # - "[DOI: 10.3390/s24030852](https://doi.org/10.3390/s24030852)"
     - title: Scoring of Human Body-Balance Ability on Wobble Board Based on the Geometric Solution
       institution: Applied Sciences
       year: 2024
       description:
         - Published in MDPI Applied Sciences, Volume 12, 5967.
-        - "[DOI: 10.3390/app12125967](https://doi.org/10.3390/app12125967)"
+        # - "[DOI: 10.3390/app12125967](https://doi.org/10.3390/app12125967)"
 
 - title: Conference Presentations
   type: time_table
@@ -83,7 +83,10 @@
       year: 2023
       description:
         - "Accepted for presentation at FCV 2023."
-        - "[Website: FCV2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496)"
+        # - "[Website: FCV2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496)"
+        - "[Website: FCV 2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&amp;wr_id=496)"
+        # - "[Website: FCV 2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496)"
+
 
 - title: Technical Skills
   type: list
