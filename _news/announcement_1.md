@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-21 
+date: 2025-11-21 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Publish the paper "Cyber physical solutions for aquatic monitoring using YOLO with BCP loss for intelligent underwater camouflaged object detection" at Springer Nature, Scientific Report
+Publish the paper Our paper titled _"Cyber Physical Solutions for Aquatic Monitoring using YOLO with BCP Loss for Intelligent Underwater Camouflaged Object Detection"_ has been accepted for publication at ***Scientific Reports***
