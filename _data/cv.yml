@@ -59,7 +59,7 @@
       year: 2025
       description:
         - Published in Scientific Reports, Volume 15, 41214.
-        - "[DOI: 10.1038/s41598-025-25090-5](https://doi.org/10.1038/s41598-025-25090-5)"
+        - 'DOI: <a href="https://doi.org/10.1038/s41598-025-25090-5" target="_blank" rel="noopener noreferrer">10.1038/s41598-025-25090-5</a>'
 
 
     - title: Effect of Light-Emitting Grid Panel on Indoor Aquaculture for Measuring Fish Growth
@@ -74,6 +74,8 @@
       description:
         - Published in MDPI Applied Sciences, Volume 12, 5967.
         # - "[DOI: 10.3390/app12125967](https://doi.org/10.3390/app12125967)"
+        - 'DOI: <a href="https://doi.org/10.3390/app12125967" target="_blank" rel="noopener noreferrer">10.3390/app12125967</a>'
+
 
 - title: Conference Presentations
   type: time_table
@@ -86,6 +88,8 @@
         # - "[Website: FCV2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496)"
         - "[Website: FCV 2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&amp;wr_id=496)"
         # - "[Website: FCV 2023](https://kism.or.kr/bbs/board.php?bo_table=AL06000000&wr_id=496)"
+        - 'Website: <a href="https://kism.or.kr/bbs/board.php?bo_table=AL06000000&amp;wr_id=496" target="_blank" rel="noopener noreferrer">FCV</a>'
+
 
 
 - title: Technical Skills
