@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Scientific Reports
+- id: SciRep        # abbr trong .bib
+  name: Scientific Reports
+  url: https://www.nature.com/srep/
+  color: "#e91e63"
+  image: /assets/img/publication_preview/SciRep.jpg
 
-"PhysRev":
-  url: https://journals.aps.org/
+# Sensors (MDPI)
+- id: Sensors
+  name: Sensors
+  url: https://www.mdpi.com/journal/sensors
+  color: "#009688"
+  image: /assets/img/publication_preview/Sensor.png
 
-"Vision":
-  color: "#009f36"
+# Applied Sciences (MDPI)
+- id: Appl.Sci.
+  name: Applied Sciences
+  url: https://www.mdpi.com/journal/applsci
+  color: "#3f51b5"
+  image: /assets/img/publication_preview/ApplSci.png
