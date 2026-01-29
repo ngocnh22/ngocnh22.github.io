@@ -8,34 +8,36 @@ category: Research & Publications
 ---
 
 ## **Abstract**
-This research introduces a solution within the **Smart Aqua Farm** ecosystem, integrating Artificial Intelligence (AI) and the Internet of Things (IoT). The primary objective is to automate the monitoring of average fish size and area in real-time, even in the low-light conditions characteristic of indoor aquaculture tanks. This system aims to reduce labor intensity and provide accurate harvest timing predictions.
+This research introduces a solution within the **Smart Aqua Farm** ecosystem, integrating AI and IoT. The objective is to automate monitoring of fish size in low-light indoor tanks to predict harvest timing.
 
 ---
 
 ## **Introduction**
-In traditional aquaculture, measuring fish size and weight is often performed manually, causing stress to the fish and being labor-intensive for operators. The greatest challenge in automation is poor indoor lighting and fish overlapping while swimming. This project proposes a **light-emitting grid panel** at the tank bottom to serve as a physical size reference and improve image contrast for segmentation.
+Manual measurement in aquaculture causes stress and is labor-intensive. We propose a **light-emitting grid panel** at the tank bottom to provide a physical reference and improve contrast.
 
 ---
 
 ## **Method**
-The system integration utilizes a specialized hardware setup and a deep learning-based software pipeline:
+The system uses an overhead camera and an LED grid panel.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/system_diagram.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ '/assets/img/system_diagram.png' | relative_url }}" class="img-fluid rounded z-depth-1" alt="System Architecture">
     </div>
 </div>
 <div class="caption">
-    <strong>Figure 1:</strong> System Architecture. Integration of the LED grid panel with an overhead camera system.
+    <strong>Figure 1:</strong> System Architecture integration.
 </div>
 
-1. **Hardware:** Overhead camera and a light-emitting LED grid panel at the tank bottom.
-2. **Software:** Image preprocessing, instance segmentation, and pixel-to-mm conversion.
+
+
+1. **Hardware:** Overhead camera and LED grid panel.
+2. **Software:** Instance segmentation and pixel-to-mm conversion.
 
 ---
 
 ## **Results**
-Experimental trials demonstrated over **90% accuracy**. Below is the real-time processing output:
+Experimental trials demonstrated over **90% accuracy**.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,18 +48,19 @@ Experimental trials demonstrated over **90% accuracy**. Below is the real-time p
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 allowfullscreen 
-                style="width: 100%; height: 400px; border-radius: 10px;">
+                style="width: 100%; height: 450px; border-radius: 10px;">
             </iframe>
         </div>
     </div>
 </div>
 <div class="caption">
-    <strong>Video 1:</strong> Real-time fish segmentation and growth measurement demonstration.
+    <strong>Video 1:</strong> Real-time fish segmentation demonstration.
 </div>
+
+
 
 ---
 
 ## **References**
 1. **Nguyen Ngoc Huynh**, M. Jun, and H. Jeong. (2024). *Effect of Light-Emitting Grid Panel on Indoor Aquaculture for Measuring Fish Growth*. **Sensors**, 24(3), 852.
-2. Frameworks: Deep Learning models implemented via PyTorch for high-precision Instance Segmentation.
 ---
