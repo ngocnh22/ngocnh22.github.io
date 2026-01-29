@@ -2,7 +2,7 @@
 layout: page
 title: Fish Growth Measurement in Indoor Aquaculture # Đã sửa để hiển thị tên rõ ràng trên Card
 description: AI-driven growth monitoring using Light-Emitting Grid Panels for low-light environments.
-img: assets/img/fish_grid_teaser.jpg # Ảnh này sẽ hiển thị làm background của Card
+img: assets/img/wf.png # Ảnh này sẽ hiển thị làm background của Card
 importance: 1
 category: Research & Publications
 ---
