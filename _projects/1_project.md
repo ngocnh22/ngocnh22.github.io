@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fish Growth Measurement in Indoor Aquaculture # Đã sửa để hiển thị tên rõ ràng trên Card
+title: Fish Growth Measurement in Indoor Aquaculture
 description: AI-driven growth monitoring using Light-Emitting Grid Panels for low-light environments.
-img: assets/img/Fish_measure/wf.png # Ảnh này sẽ hiển thị làm background của Card
+img: assets/img/Fish_measure/wf.png
 importance: 1
 category: Research & Publications
 ---
@@ -26,7 +26,7 @@ The system integration utilizes a specialized hardware setup and a deep learning
     </div>
 </div>
 <div class="caption">
-    <strong>Figure 1:</strong> System Architecture (Path: <em>assets/img/system_diagram.png</em>). Integration of the LED grid panel with an overhead camera system.
+    <strong>Figure 1:</strong> System Architecture. Integration of the LED grid panel with an overhead camera system.
 </div>
 
 1. **Hardware:** Overhead camera and a light-emitting LED grid panel at the tank bottom.
@@ -39,11 +39,20 @@ Experimental trials demonstrated over **90% accuracy**. Below is the real-time p
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="[https://www.youtube.com/embed/MÃ_VIDEO_CỦA_BẠN](https://www.youtube.com/watch?v=w2CnC5Q6NcM)" class="img-fluid rounded z-depth-1" %}
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe 
+                src="https://www.youtube.com/embed/w2CnC5Q6NcM" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen 
+                style="width: 100%; height: 400px; border-radius: 10px;">
+            </iframe>
+        </div>
     </div>
 </div>
 <div class="caption">
-    <strong>Video 1:</strong> Real-time fish segmentation and growth measurement.
+    <strong>Video 1:</strong> Real-time fish segmentation and growth measurement demonstration.
 </div>
 
 ---
