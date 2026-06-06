@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Our paper titled _"Toward Mathematically Grounded Boundary Optimization for Image Segmentation"_ 
-has been accepted for publication at ***The 34th ACM International Conference on Multimedia***
+has been accepted for publication at ***ACM Multimedia 2026 Doctoral Symposium***
