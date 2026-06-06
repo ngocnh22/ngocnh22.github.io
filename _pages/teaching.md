@@ -2,7 +2,7 @@
 
 layout: page
 permalink: /teaching/
-title: teaching & mentoring
+title: "teaching & mentoring"
 description: Teaching experience, mentoring activities, and course materials.
 nav: true
 nav_order: 6
