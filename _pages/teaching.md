@@ -1,15 +1,14 @@
 ---
+
 layout: page
 permalink: /teaching/
 title: teaching & mentoring
 description: Teaching experience, mentoring activities, and course materials.
 nav: true
 nav_order: 6
----
+------------
 
-This page summarizes my teaching, mentoring, and course-related activities.  
-The content is organized by year and course to clearly show the teaching context,
-time period, and main topics covered.
+This page summarizes my teaching, mentoring, and course-related activities. The content is organized by year and topic to clearly show the teaching context, time period, and main topics covered.
 
 ---
 
@@ -19,10 +18,10 @@ time period, and main topics covered.
 
 #### Research Mentoring for Exchange Student
 
-**Student background:** Japanese exchange student from Ritsumeikan University
-**Period:** 2026
-**Role:** Research mentor
-**Topics:** Computer vision, deep learning, research practice
+* **Student background:** Japanese exchange student from Ritsumeikan University
+* **Period:** 2026
+* **Role:** Research mentor
+* **Topics:** Computer vision, deep learning, research practice
 
 I mentored a Japanese exchange student from Ritsumeikan University on research-oriented topics related to computer vision and deep learning. The mentoring focused on helping the student understand the research workflow, paper reading, experimental setup, implementation practice, and result analysis.
 
@@ -39,10 +38,10 @@ I mentored a Japanese exchange student from Ritsumeikan University on research-o
 
 #### Technical Mentoring for Exchange Student
 
-**Student background:** Japanese exchange student from Ritsumeikan University
-**Period:** 2024
-**Role:** Technical mentor
-**Topics:** Micro:bit programming, basic embedded systems, introductory AI/IoT practice
+* **Student background:** Japanese exchange student from Ritsumeikan and Osaka University
+* **Period:** 2024
+* **Role:** Technical mentor
+* **Topics:** Micro:bit programming, basic embedded systems, introductory AI/IoT practice
 
 I mentored a Japanese exchange student from Ritsumeikan University on a hands-on technical project using the micro:bit platform. The mentoring focused on introducing basic programming, sensor-based interaction, and simple embedded-system concepts through practical exercises.
 
@@ -56,14 +55,36 @@ The micro:bit is a small programmable board designed for educational computing. 
 * Explained simple embedded-system and IoT concepts
 * Discussed how programming logic can be connected to real-world physical devices
 
+---
+
+### 2023
+
+#### Research Mentoring for Exchange Student
+
+* **Student background:** Japanese exchange student from Ritsumeikan University
+* **Period:** 2023
+* **Role:** Research mentor
+* **Topics:** Artificial intelligence, computer vision, deep learning
+
+I mentored a Japanese exchange student from Ritsumeikan University during a research exchange period. The mentoring included fundamental discussions on artificial intelligence and computer vision, as well as practical guidance on deep learning-based visual recognition tasks.
+
+**Main activities:**
+
+* Introduced fundamental concepts in AI and computer vision
+* Discussed deep learning models for visual perception
+* Supported research topic exploration and literature review
+* Provided guidance on experiment preparation and technical writing
+
+---
+
 ### 2022
 
 #### Mentoring for Vietnamese Exchange Student
 
-**Student background:** Vietnamese exchange student from Thuy Loi University
-**Period:** 2022
-**Role:** Student mentor
-**Topics:** Programming, AI fundamentals, research preparation
+* **Student background:** Vietnamese exchange student from Thuy Loi University
+* **Period:** 2022
+* **Role:** Student mentor
+* **Topics:** Programming, AI fundamentals, research preparation
 
 I mentored a Vietnamese exchange student from Thuy Loi University, supporting the student's adaptation to research activities and technical study. The mentoring focused on programming practice, basic AI concepts, and preparation for computer vision-related research.
 
@@ -80,10 +101,10 @@ I mentored a Vietnamese exchange student from Thuy Loi University, supporting th
 
 #### Mentoring for Vietnamese Exchange Student
 
-**Student background:** Vietnamese exchange student from Thuy Loi University
-**Period:** 2021
-**Role:** Student mentor
-**Topics:** Programming, academic adaptation, basic research skills
+* **Student background:** Vietnamese exchange student from Thuy Loi University
+* **Period:** 2021
+* **Role:** Student mentor
+* **Topics:** Programming, academic adaptation, basic research skills
 
 I mentored a Vietnamese exchange student from Thuy Loi University during the student's exchange period. The mentoring focused on academic adaptation, programming practice, and basic preparation for AI and computer vision study.
 
@@ -100,9 +121,9 @@ I mentored a Vietnamese exchange student from Thuy Loi University during the stu
 
 ### NanoGPT and Transformer-based Language Modeling
 
-**Period:** 2026
-**Type:** Course/tutorial material
-**Level:** Undergraduate / graduate introductory level
+* **Period:** 2026
+* **Type:** Course/tutorial material
+* **Level:** Undergraduate / graduate introductory level
 
 This material introduces the core components of a small-scale GPT-style language model. It explains how text is converted into token IDs, how embeddings are constructed, and how transformer blocks process sequential data using masked self-attention.
 
@@ -120,9 +141,9 @@ This material introduces the core components of a small-scale GPT-style language
 
 ### Deep Learning for Computer Vision
 
-**Period:** 2025
-**Type:** Course/tutorial material
-**Level:** Undergraduate / graduate introductory level
+* **Period:** 2025
+* **Type:** Course/tutorial material
+* **Level:** Undergraduate / graduate introductory level
 
 This material introduces practical deep learning concepts for computer vision. The focus is on how visual data are processed, how neural networks are trained, and how model performance is evaluated in detection and segmentation tasks.
 
@@ -140,9 +161,9 @@ This material introduces practical deep learning concepts for computer vision. T
 
 ### Boundary-aware Segmentation and Evaluation
 
-**Period:** 2025
-**Type:** Research-oriented tutorial material
-**Level:** Graduate research level
+* **Period:** 2025
+* **Type:** Research-oriented tutorial material
+* **Level:** Graduate research level
 
 This material introduces boundary-aware learning and evaluation for image segmentation. The main focus is on understanding why region-overlap metrics such as IoU and Dice may not fully capture structural prediction errors, especially around object boundaries.
 
@@ -159,9 +180,9 @@ This material introduces boundary-aware learning and evaluation for image segmen
 
 ### Python and PyTorch for Deep Learning
 
-**Period:** 2024
-**Type:** Practical tutorial material
-**Level:** Beginner to intermediate
+* **Period:** 2024
+* **Type:** Practical tutorial material
+* **Level:** Beginner to intermediate
 
 This material provides practical guidance for implementing deep learning models using Python and PyTorch. The goal is to help students build a complete training pipeline from dataset loading to model evaluation.
 
