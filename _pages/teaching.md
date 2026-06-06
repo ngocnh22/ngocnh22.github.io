@@ -6,7 +6,7 @@ title: "teaching & mentoring"
 description: Teaching experience, mentoring activities, and course materials.
 nav: true
 nav_order: 6
-------------
+---
 
 This page summarizes my teaching, mentoring, and course-related activities. The content is organized by year and topic to clearly show the teaching context, time period, and main topics covered.
 
