@@ -12,19 +12,6 @@ The content is organized by year and course to clearly show the teaching context
 time period, and main topics covered.
 
 ---
----
-
-layout: page
-permalink: /teaching/
-title: teaching & mentoring
-description: Teaching, mentoring, and course-related materials.
-nav: true
-nav_order: 6
-------------
-
-This page summarizes my mentoring activities and course-related materials. The content is organized by year and topic to clearly describe the mentoring context, student background, time period, and main learning objectives.
-
----
 
 ## Mentoring
 
